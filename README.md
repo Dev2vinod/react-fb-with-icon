@@ -1,7 +1,9 @@
 # first create react app
 npx create-react-app
 move to source file 
-npm run build before deployment
+npm run build before deployment <br/>
+this is cli comment
+depolyment in netlify ---- netlify deploy --prod 
 
 
 # Getting Started with Create React App
