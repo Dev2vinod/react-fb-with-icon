@@ -1,3 +1,9 @@
+# first create react app
+npx create-react-app
+move to source file 
+npm run build before deployment
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
